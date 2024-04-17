@@ -1,0 +1,16 @@
+* {
+    color: white;
+    font-family: 'Roboto', Courier, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.temp {
+    text-align: center;
+}
+
+#pikachu {
+    width: 50%;
+}
