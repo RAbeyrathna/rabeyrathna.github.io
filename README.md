@@ -1,4 +1,4 @@
-# Personal Projects Main Page
+# Rahal Abeyrathna - Projects Main Page
 
 This repo hosts a static page that showcases my projects and repositories for others to see.
 
