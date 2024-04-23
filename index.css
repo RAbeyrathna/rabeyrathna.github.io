@@ -24,4 +24,8 @@ h1 {
 }
 .social-links img:hover {
   transform: translateY(-3px);
+}
+
+.card {
+  margin-bottom: 30px;
 }/*# sourceMappingURL=index.css.map */
